@@ -1,0 +1,4 @@
+Braille is a means of reading and writing for blind people. The Braille system was invented by Louis Braille (see below for more about Louis Braille). In braille, an alphabet is made up by a combination of six dots. Each character in braille consists of one or more (to a maximum of six) raised dots. The position of the different dots represents the different letters of the alphabet. These dots are made by punching an awl-like tool on a type of thick paper.
+
+
+To develop a software to recognize Braille characters from scanned image and convert into English text characters and then text is converted into speech. Thus, on completion, this system would facilitate communication between the blind people and the sighted ones.
